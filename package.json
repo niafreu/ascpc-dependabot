@@ -1,15 +1,12 @@
 {
-  "name": "dependabot-automerge-lab",
-  "version": "1.0.0",
+  "name": "--------change------this-----",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "dependencies": {
-    "internalwkl-1": "^1.0.4"
-   },
   "author": "",
   "license": "ISC"
 }
